@@ -1,20 +1,19 @@
 # ----
-# Site setting
+# Site
 
 title: '下划线的博客'
 url: "https://TangTab.github.io/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
-keyword: '下划线的博客 C/C++ 嵌入式开发 python 深度学习'
 
-# 需要修改
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: '下划线的博客 C/C++ 嵌入式开发 python 深度学习'
 author:
   name: '下划线'
   email: 'tb0128@hotmail.com'
-  twitter: '新冠期间口吐芬芳被永久封号'
+  twitter: 
 social:
   name: Edition Template
   links:
