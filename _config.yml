@@ -1,1 +1,78 @@
-theme: jekyll-theme-minimal
+# ----
+# Site setting
+
+title: '下划线的博客'
+url: "https://TangTab.github.io/"
+description: 'Code & Life'
+show_full_navigation: true
+keyword: '下划线的博客 C/C++ 嵌入式开发 python 深度学习'
+
+# 需要修改
+logo: /siteicon.png
+
+author:
+  name: '下划线'
+  email: 'tb0128@hotmail.com'
+  twitter: '新冠期间口吐芬芳被永久封号'
+social:
+  name: 
+  links:
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+collections:
+  docs:
+    title: Documentation
+    permalink: /:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "docs"
+    values:
+      seo:
+        type: Article
+      _comments:
+        category: Group navigation links with this field
+        order: Used to sort links in the navigation
+      _options:
+        content:
+          width: 800
+          height: 2000
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      _comments:
+        type: Marks the impact of this release
+
+# -----------
+# CloudCannon
+
+types:
+  - minor
+  - major
