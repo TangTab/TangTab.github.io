@@ -3,20 +3,22 @@
 
 title: '下划线的博客'
 url: "https://TangTab.github.io/"
-description: 'Code & Life'
+baseurl:
+google_analytics_key:
 show_full_navigation: true
 keyword: '下划线的博客 C/C++ 嵌入式开发 python 深度学习'
 
 # 需要修改
 logo: /siteicon.png
-
+description: '下划线的博客 C/C++ 嵌入式开发 python 深度学习'
 author:
   name: '下划线'
   email: 'tb0128@hotmail.com'
   twitter: '新冠期间口吐芬芳被永久封号'
 social:
-  name: 
+  name: Edition Template
   links:
+    - https://github.com/CloudCannon/edition-jekyll-template
 
 # -----
 # Build
