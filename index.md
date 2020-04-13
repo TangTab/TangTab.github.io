@@ -20,6 +20,12 @@ Getting a message sent is quick and easy with ChatApp:
 3. Type a message or send a photo
 
 > Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+xxx1
+![cmd-log1](https://tangtab.github.io/apple-touch-icon.png)
+xxx2
+![cmd-log2](./apple-touch-icon.png)
+xxx3
+![cmd-log3](/apple-touch-icon.png)
 
 ### Features
 
