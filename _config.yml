@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: 'ÏÂ»®ÏßµÄ²©¿Í'
+title: 'ä¸‹åˆ’çº¿çš„åšå®¢'
 url: "https://TangTab.github.io/"
 baseurl:
 google_analytics_key:
@@ -9,11 +9,12 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: 'ÏÂ»®ÏßµÄ²©¿Í C/C++ Ç¶ÈëÊ½¿ª·¢ python Éî¶ÈÑ§Ï°'
+description: 'ä¸‹åˆ’çº¿çš„åšå®¢ C/C++ åµŒå…¥å¼å¼€å‘ python æ·±åº¦å­¦ä¹ '
+
 author:
-  name: 'ÏÂ»®Ïß'
+  name: 'ä¸‹åˆ’çº¿'
   email: 'tb0128@hotmail.com'
-  twitter: 
+  twitter: 'æ–°å† æœŸé—´å£åèŠ¬èŠ³è¢«æ°¸ä¹…å°å·'
 social:
   name: Edition Template
   links:
